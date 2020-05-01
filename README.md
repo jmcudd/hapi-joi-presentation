@@ -4,6 +4,8 @@ Install the dependencies...
 
 ```bash
 npm install
+cd hapi-swagger-example
+npm install
 ```
 
 ...then start webpack:
